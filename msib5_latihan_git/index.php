@@ -9,7 +9,7 @@
     $name = "Aditya Eka Pradana Raharjo";
     $kampus = "Universitas Aki Semarang / Teknik Informatika";
     $mitra = "GITS FullStack Developer";
-    $hobby = "Mencari sesuatu yang baru";
+    $hobby = "Gaming / Mencari sesuatu yang baru";
     ?>
 </head>
 <body style="background-color: #DDE3E8">
